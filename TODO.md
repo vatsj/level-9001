@@ -1,6 +1,6 @@
-scraping
-- canonical references for http items
-- how to handle "show more"
+big picture
+- need better data
+- whisper seems hard and expensive
 
 misc
 - requirements.txt
